@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Darshit Mistry</h1>
 <h3 align="center">A passionate Web developer | UI Designer from India</h3>
 <img align="right" alt="code" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
