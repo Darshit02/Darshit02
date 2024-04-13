@@ -1,12 +1,13 @@
-<h2> Hi, I'm Thai Braga!   <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="50"></h2>
+<h2> Hi, I'm Darshit Mistry!   <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="230">
 <p><em>I am comfortable to work with Nextjs ,reactjs and TypeScript</br>Coding is Poetry should be sort.
 </em></p>
 
-[![Twitter: Darshit Mistry](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Mistry5Darshit)
-[![Linkedin: Darshit Mistry](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshitmistry/)](www.linkedin.com/in/darshit-mistry)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Darshit02)
-[![Portfolio Darshit](https://linux-protfolio.vercel.app/)
+[![Twitter: Darshit Mistry](https://img.shields.io/twitter/follow/DarshitMistry?style=social)](https://twitter.com/Mistry5Darshit)
+[![Linkedin: Darshit Mistry](https://img.shields.io/badge/-darshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshitmistry/)](www.linkedin.com/in/darshit-mistry)
+[![GitHub Darshit Mistry](https://img.shields.io/github/followers/Darshit?label=follow&style=social)](https://github.com/Darshit02)
+[![Portfolio Darshit Mistry](https://img.shields.io/hangar/Show portfolio)](https://linux-protfolio.vercel.app/)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
