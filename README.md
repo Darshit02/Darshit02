@@ -6,8 +6,6 @@
 [![Twitter: Darshit Mistry](https://img.shields.io/twitter/follow/DarshitMistry?style=social)](https://twitter.com/Mistry5Darshit)
 [![Linkedin: Darshit Mistry](https://img.shields.io/badge/-darshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshitmistry/)](www.linkedin.com/in/darshit-mistry)
 [![GitHub Darshit Mistry](https://img.shields.io/github/followers/Darshit?label=follow&style=social)](https://github.com/Darshit02)
-[![Portfolio Darshit Mistry](https://img.shields.io/hangar/Show portfolio)](https://linux-protfolio.vercel.app/)
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
